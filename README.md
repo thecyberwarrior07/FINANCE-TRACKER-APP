@@ -79,7 +79,6 @@ git clone https://github.com/thecyberwarrior07/FINANCE-TRACKER-APP.git
 ```
 
 cd finance-tracker
-
 ```
 
 3. Before runing make sure you installed this modules
@@ -88,18 +87,16 @@ cd finance-tracker
 ```
 python -m pip install tkinter sqlite3
 ```
-3. Run the application
+4. Run the application
 
 ```
-
 python app.py
-
 ```
 
 ---
 
 ## Screenshots
-
+                          
 
 
 ---
