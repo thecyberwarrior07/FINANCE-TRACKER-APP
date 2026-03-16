@@ -1,7 +1,3 @@
-Here is a **professional README.md** you can put in your project repository on GitHub.
-Copy this into a file named **README.md** in your project folder.
-
----
 
 ```markdown
 # Personal Finance Tracker
@@ -65,7 +61,7 @@ finance-tracker
 
 ```
 
-git clone [https://github.com/your-username/finance-tracker.git](https://github.com/your-username/finance-tracker.git)
+git clone [https://github.com/thecyberwarrior07/FINANCE-TRACKER-APP.git]([https://github.com/thecyberwarrior07/FINANCE-TRACKER-APP])
 
 ```
 
@@ -89,12 +85,7 @@ python app.py
 
 ## Screenshots
 
-(Add screenshots of your application here)
 
-Example:
-
-- Expense Entry Window
-- Expense List View
 
 ---
 
