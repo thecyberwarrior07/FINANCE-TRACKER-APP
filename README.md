@@ -1,5 +1,5 @@
 
-```markdown
+
 # Personal Finance Tracker
 
 A simple desktop application built with Python that helps users track and manage their daily expenses through a graphical interface.
@@ -113,7 +113,4 @@ https://www.linkedin.com/in/kunal-dawane-24836a3b7/
 
 This project is open-source and available for learning and educational purposes.
 ```
-
-
-
 If you want, I can also show you **3 GitHub tricks that make your profile look like a professional developer (very useful for internships)**.
