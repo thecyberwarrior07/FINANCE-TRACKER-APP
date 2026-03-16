@@ -112,5 +112,4 @@ https://www.linkedin.com/in/kunal-dawane-24836a3b7/
 ## License
 
 This project is open-source and available for learning and educational purposes.
-```
-If you want, I can also show you **3 GitHub tricks that make your profile look like a professional developer (very useful for internships)**.
+``` 
