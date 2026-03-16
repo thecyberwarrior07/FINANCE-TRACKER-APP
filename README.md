@@ -7,7 +7,6 @@ A simple desktop application built with Python that helps users track and manage
 This project demonstrates the use of Python for GUI development and database integration. It allows users to add expenses, store them in a database, and view previous financial records easily.
 
 ---
-
 ## Features
 
 - Graphical User Interface for easy interaction
@@ -55,6 +54,20 @@ finance-tracker
 
 ---
 
+##normal version
+
+- there are one file name 
+```
+app.py
+
+```
+- you can use on command line if you want by simply
+```
+python app.py
+
+```
+
+
 ## Installation
 
 1. Clone the repository
@@ -73,6 +86,12 @@ cd finance-tracker
 
 ```
 
+3. Before runing make sure you installed this modules
+- tkinter
+- sqlite3
+```
+python -m pip install tkinter sqlite3
+```
 3. Run the application
 
 ```
