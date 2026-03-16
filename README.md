@@ -59,12 +59,10 @@ finance-tracker
 - there are one file name 
 ```
 app.py
-
 ```
 - you can use on command line if you want by simply
 ```
 python app.py
-
 ```
 
 
@@ -73,9 +71,7 @@ python app.py
 1. Clone the repository
 
 ```
-
-git clone [https://github.com/thecyberwarrior07/FINANCE-TRACKER-APP.git]([https://github.com/thecyberwarrior07/FINANCE-TRACKER-APP])
-
+git clone https://github.com/thecyberwarrior07/FINANCE-TRACKER-APP.git
 ```
 
 2. Navigate to the project directory
