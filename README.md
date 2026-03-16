@@ -54,7 +54,7 @@ finance-tracker
 
 ---
 
-##normal version
+## normal version
 
 - there are one file name 
 ```
