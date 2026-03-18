@@ -3,7 +3,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 
-conn= sqlite3.connect("expense.db")
+conn= sqlite3.connect("expenses.db")
 curser = conn.cursor()
 
 curser.execute('''
